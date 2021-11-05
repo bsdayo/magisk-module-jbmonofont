@@ -1,0 +1,6 @@
+id=jbmonofont
+name=JetBrains Mono Font
+version=v1.0
+versionCode=1
+author=b1acksoil <bs@blacksoil.top>
+description=Replace Android default monospace font DroidSans Mono with JetBrains Mono.
